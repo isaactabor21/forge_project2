@@ -1,5 +1,8 @@
 This is a project that I completed as a part of the Forge program (https://joinforge.co/launch-ds) that I eventually taught. It was completed over the course of one week along with 3 other data science trainees. 
 
+You can find the data we fabricated, code we used to populate and query two learning management system databases, and slides we presented in this GitHub repository. If you seek to replicate the project, make sure to change your database name and passwords accordingly. Also, you must run the code locally (e.g. VS Code). It will not work in Google Colab. I also recommend using MySQL Workbench and MongoDB Compass as friendly GUIs. 
+
+
 The Project Brief was as follows: 
 
 **Learning Management System Data Model:** 
@@ -14,4 +17,3 @@ Deliverables:
 1. Two databases - one MySQL, one MongoDB- that you have spun up locally and populated with your data according to your specified architecture. 
 2. A polished, 10-12 minute slide deck presentation detailing the data you created or obtained, the architectural decisions you made for each of the two databases, and which database architecture you feel best suits your topic. Make sure to talk about the performance of queries for each database in the slide deck! This is a technical presentation to be shared with your CTO or technical project manager. Don’t hold back on the jargon, but still explain concepts in-depth and avoid code screenshots.
 
-You can find the data we fabricated, code, and slides in this GitHub repository. If you seek to replicate the project, make sure to change your database name and passwords accordingly. Also, you must run the code locally (e.g. VS Code). It will not work in Google Colab. I also recommend using MySQL Workbench and MongoDB Compass as friendly GUIs. 
