@@ -1,4 +1,4 @@
-This is a project that I completed as a part of the Forge program (https://joinforge.co/launch-ds) that I eventually taught. It was completed over the course of one week. 
+This is a project that I completed as a part of the Forge program (https://joinforge.co/launch-ds) that I eventually taught. It was completed over the course of one week along with 3 other data science trainees. 
 
 The Project Brief was as follows: 
 
